@@ -1,14 +1,14 @@
 # Usage
 ```
-docker build -t daya123/nginx4 .
+docker build -t daya123/nginx5 .
 
-build -t daya123/nginx4 .
+build -t daya123/nginx5 .
 
 $ vi Dockerfile
-$ docker build -t daya123/nginx4 . 
+$ docker build -t daya123/nginx5 . 
 $ docker images
-$ docker push daya123/nginx4
-$ cd MSA
+$ docker push daya123/nginx5
+$ cd MSB
 $ git add -A
 $ git commit
 $ git push
@@ -18,15 +18,7 @@ $ git add -A
 $ git commit -m "README.md added"
 $ git push
 $ pwd
-/c/Users/user/MSA
-$ ls -al
-total 50
-drwxr-xr-x 1 user 197121  0  6월 25 18:13 ./
-drwxr-xr-x 1 user 197121  0  6월 25 18:13 ../
-drwxr-xr-x 1 user 197121  0  6월 25 18:13 .git/
--rw-r--r-- 1 user 197121 55  6월 25 18:00 Dockerfile
--rw-r--r-- 1 user 197121 51  6월 25 18:13 README.md
-drwxr-xr-x 1 user 197121  0  6월 25 18:09 test2/
+/c/Users/user/MSB
 ```
 '''
 $git add –A <---All
@@ -39,3 +31,4 @@ https://github.com/onespace10/MSB.git
 
 '''
 # MSB
+https://github.com/onespace10/MSB.git

@@ -29,7 +29,6 @@ $ pwd
 ```
 # To upload for git web
 
-```
 user@DAYA MINGW64 ~/MSB
 $ git init
 Initialized empty Git repository in C:/Users/user/MSB/.git/
@@ -59,6 +58,5 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 ```
 
 ```
-
 # MSB
 https://github.com/onespace10/MSB.git

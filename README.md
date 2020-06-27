@@ -1,4 +1,4 @@
-# Usage
+# Docker image building
 
 ```
 docker build -t daya123/nginx5 .
